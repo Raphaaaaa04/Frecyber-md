@@ -3,20 +3,20 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> 𝗩𝗲𝗻𝗼𝗰𝘆𝗯𝗲𝗿-𝗺𝗱 </h1> 
-<p align="center"> Introducing 𝗩𝗲𝗻𝗼𝗰𝘆𝗯𝗲𝗿-𝗺𝗱, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+<h1 align="center"> 𝐅𝚪𝚵𝐂𝐘𝚩𝚵𝚪-𝚳𝐃 </h1> 
+<p align="center"> Introducing 𝐅𝚪𝚵𝐂𝐘𝚩𝚵𝚪-𝚳𝐃, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+site;I+am+venocyber+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Kingjux)
+[![Fredie tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+site;I+am+frecyber+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+♥️+💋+💞;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/fredietechTZ)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="https://github.com/Kingjux/Venocyber-md">
-    <img alt="venocyber docs" height="300" src="https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg">
+  <a href="https://github.com/fredietechTZ/Frecyber-md">
+    <img alt="frecyber docs" height="300" src="https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg">
   </a>
 </p>
     
@@ -25,21 +25,21 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+255689606561?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Venocyber-md+Repo" target="_blank">
+  <a href="https://wa.me/+255620814108?text=Hi+Boy--+I+Need+Help.+I+messaged+you+from+frecyber-md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
-  <a aria-label="Venocyber-md is free to use" href="https://github.com/Kingjux/Venocyber-md" target="_blank">
-    <img alt="Venocybertech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="Frecyber-md is free to use" href="https://github.com/fredietechTZ/Frecyber-md" target="_blank">
+    <img alt="FredietechTZ" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{kingjux}/count.svg" alt="Venocyber-md :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{fredietechTZ}/count.svg" alt="Frecyber-md :: Visitor's Count" /></p>
 ---
 
 
 
 
-<p align="center"> 𝗩𝗲𝗻𝗼𝗰𝘆𝗯𝗲𝗿-𝗺𝗱 uses
+<p align="center"> 𝐅𝚪𝚵𝐂𝐘𝚩𝚵𝚪-𝚳𝐃 uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -49,21 +49,21 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Kingjux/Venocyber-md"><b>Venocyber-md</b></a> Support Deploy On...
+  <a href="https://github.com/fredietechTZ/Frecyber-md"><b>Frecyber-md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/kingjux/venocyber-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://github.com/fredietechTZ/Frecyber-md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
   <a href="https://railway.app/template/GZOvIe?referralCode=wVDLrh"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingjux%2Fvenocyber-md"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
-  <a href="https://venocyber-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
-  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Kingjux/Venocyber-md-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255698101622&env[MONGODB_URI]&&env[OWNER_NAME]=venocyber ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Venocyber ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=VENOCYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Venocyber-tech&env[KOYEB_NAME]=Venocyber-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/ecb1a11c450276bf7d396.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FfredietechTZ%2Ffrecyber-md"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://frecyber-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
+  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/fredietechTZ/Frecyber-md-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255620814108&env[MONGODB_URI]&&env[OWNER_NAME]=fredie ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Frecyber ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=FRECYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Frecyber-tech&env[KOYEB_NAME]=Frecyber-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/ecb1a11c450276bf7d396.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
-<p align="center">Need help? please create an <a href="https://github.com/Kingjux/Venocyber-md/issues">issue</a></p>
+<p align="center">Need help? please create an <a href="https://github.com/fredietechTZ/Frecyber-md/issues">issue</a></p>
 
  
 
@@ -90,9 +90,9 @@
 
 
 
-<h3>Venocyber-MD Stats</h3>
+<h3>Frecyber-MD Stats</h3>
 
-![Venocyber-md Stats](https://github-readme-stats.vercel.app/api/pin/?username=kingjux&repo=venocyber-md&show_owner=true&theme=dark)
+![Frecyber-md Stats](https://github-readme-stats.vercel.app/api/pin/?username=fredietechTZ&repo=frecyber-md&show_owner=true&theme=dark)
 
 
     
@@ -110,13 +110,13 @@ if scan qr is not working please try using pairing code i am currently working o
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
 3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
-4.  ***Click [`FORK`](https://github.com/Kingjux/Venocyber-md/fork) and `Star ⭐ Repository` for Courage.***
+4.  ***Click [`FORK`](https://github.com/fredietechTZ/Frecyber-md) and `Star ⭐ Repository` for Courage.***
 5.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 6.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-7.  ***Deploy on [`HEROKU`](https://deploy-venocyber.vercel.app/)***
-8.  ***Deploy on [`Replit`](https://replit.com/github/kingjux/Venocyber-Md)***
+7.  ***Deploy on [`HEROKU`](https://deploy-frecyber.vercel.app/)***
+8.  ***Deploy on [`Replit`](https://replit.com/github/fredietechTZ/Frecyber-Md)***
 9.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
-10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Kingjux/Venocyber-md-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255698101622env[MONGODB_URI]&&env[OWNER_NAME]=Venocyber&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Venocyber+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=VENOCYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Venocyber-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/ecb1a11c450276bf7d396.jpg)***
+10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/fredietechTZ/Frecyber-md-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255620814108env[MONGODB_URI]&&env[OWNER_NAME]=fredie&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Frecyber+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=FRECYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Frecyber-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/ecb1a11c450276bf7d396.jpg)***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ##
 ---
@@ -129,7 +129,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 
 ### I Am
-- [Venocyber Tech](https://github.com/kingjux) 
+- [Fredie Tech](https://github.com/fredietechTZ) 
 
 # please click the following button  and  fill the details to support my project
 
@@ -143,10 +143,10 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 </h2>
    
 ## 
-- *Venocyber-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *Frecyber-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Venocyber-Md at your own risk by keeping this warning in mind.*
-- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/kingjux/Venocyber-md)
+- *Use Frecyber-Md at your own risk by keeping this warning in mind.*
+- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/fredietechTZ/Frecyber-md)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -165,7 +165,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[ʜᴏᴡ ᴛᴏ sᴇᴛᴜᴘ `𝗩𝗘𝗡𝗢𝗖𝗬𝗕𝗘𝗥 𝗠𝗗` 𝑓𝑟𝑒𝑒 𝑡𝑢𝑡𝑜𝑟𝑖𝑎𝑙 `𝚌𝚕𝚒𝚌𝚔 𝚑𝚎𝚛𝚎`](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl)
+[ʜᴏᴡ ᴛᴏ sᴇᴛᴜᴘ `𝐅𝚪𝚵𝐂𝐘𝚩𝚵𝚪 𝚳𝐃` 𝑓𝑟𝑒𝑒 𝑡𝑢𝑡𝑜𝑟𝑖𝑎𝑙 `𝚌𝚕𝚒𝚌𝚔 𝚑𝚎𝚛𝚎`](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl)
  
   ##
   
