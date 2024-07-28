@@ -61,7 +61,7 @@
   <a href="https://frecyber-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
   <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/fredietechTZ/Frecyber-md-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255620814108&env[MONGODB_URI]&&env[OWNER_NAME]=fredie ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Frecyber ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=FRECYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Frecyber-tech&env[KOYEB_NAME]=Frecyber-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/ecb1a11c450276bf7d396.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
-  <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://youtu.be/izoxfW3anrU"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 <p align="center">Need help? please create an <a href="https://github.com/fredietechTZ/Frecyber-md/issues">issue</a></p>
 
@@ -109,10 +109,10 @@ if scan qr is not working please try using pairing code i am currently working o
 <a href="https://venocyber-md-session.onrender.com/pair"><img title="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2-h?color=green&style=for-the-badge&logo=msi"></a>
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
-3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
+3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/izoxfW3anrU). `Optional`***
 4.  ***Click [`FORK`](https://github.com/fredietechTZ/Frecyber-md) and `Star ⭐ Repository` for Courage.***
-5.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
-6.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
+5.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/izoxfW3anrU).***
+6.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/izoxfW3anrU)***
 7.  ***Deploy on [`HEROKU`](https://deploy-frecyber.vercel.app/)***
 8.  ***Deploy on [`Replit`](https://replit.com/github/fredietechTZ/Frecyber-Md)***
 9.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
@@ -125,16 +125,13 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then [`Whatsapp Me Here`](https://wa.me/message/MSSH2UWWOQBDL1)
+- If any problem, then [`Whatsapp Me Here`](https://wa.me/message/255620814108)
 
 
 ### I Am
 - [Fredie Tech](https://github.com/fredietechTZ) 
 
 # please click the following button  and  fill the details to support my project
-
-
-<a href="https://www.buymeacoffee.com/venocyber"><img src="https://img.buymeacoffee.com/button-api/?text=Support this project&emoji=&slug=venocyber&button_colour=5F7FFF&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 --
 
@@ -154,10 +151,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 ---
 ### Credits to:
 `much thanks to`
-- [Suhail Ser](https://github.com/SuhailTechInfo) for the Base Bot
-- [`Astropeda Team`](https://github.com/Astropeda) for new menu design and some cmds
-- [wasixd](https://github.com/Itxxwasi) for watching and rechecks
-- [Gifted tech](https://github.com/mouricedevs) always supporter
+- [Venocyber Tech](https://github.com/Kingjux) for the Base Bot
 
 ---
 
@@ -165,52 +159,45 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[ʜᴏᴡ ᴛᴏ sᴇᴛᴜᴘ `𝐅𝚪𝚵𝐂𝐘𝚩𝚵𝚪 𝚳𝐃` 𝑓𝑟𝑒𝑒 𝑡𝑢𝑡𝑜𝑟𝑖𝑎𝑙 `𝚌𝚕𝚒𝚌𝚔 𝚑𝚎𝚛𝚎`](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl)
+[ʜᴏᴡ ᴛᴏ sᴇᴛᴜᴘ `𝐅𝚪𝚵𝐂𝐘𝚩𝚵𝚪 𝚳𝐃` 𝑓𝑟𝑒𝑒 𝑡𝑢𝑡𝑜𝑟𝑖𝑎𝑙 `𝚌𝚕𝚒𝚌𝚔 𝚑𝚎𝚛𝚎`](https://youtube.com/@freeonlinetvt1?si=UiM1iSnKKrAmOShg)
  
   ##
   
-  * [`𝐝𝐨𝐧'𝐭 𝐞𝐯𝐞𝐧 𝐡𝐚𝐯𝐞 𝐠𝐢𝐭𝐡𝐮𝐛 𝐚𝐜𝐜𝐨𝐮𝐧𝐭` How To setup Github 1st step `𝒄𝒍𝒊𝒄𝒌 𝒉𝒆𝒓𝒆`](https://youtu.be/19v5VCx5fDk?si=l9GzHaJg8Vedj5ld)
+  * [`𝐝𝐨𝐧'𝐭 𝐞𝐯𝐞𝐧 𝐡𝐚𝐯𝐞 𝐠𝐢𝐭𝐡𝐮𝐛 𝐚𝐜𝐜𝐨𝐮𝐧𝐭` How To setup Github 1st step `𝒄𝒍𝒊𝒄𝒌 𝒉𝒆𝒓𝒆`](https://youtube.com/@freeonlinetvt1?si=UiM1iSnKKrAmOShg)
   
  * Deploy on Heroku Video ⇓
  <p align="left">
-<a href="https://youtu.be/1wNVPsZ98Mo?si=ftQ2cg82U0cz-mbC"><img align="center" src="https://telegra.ph/file/75671c3784389fa525fcd.jpg" alt="DEPLOY" height="110" width="200" /></a>
+<a href="https://youtu.be/izoxfW3anrU"><img align="center" src="https://telegra.ph/file/75671c3784389fa525fcd.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
 * don't have heroku account? ᴄʀᴇᴀᴛᴇ ʜᴇʀᴏᴋᴜ ᴀᴄᴄᴏᴜɴᴛ Video ⇓
  <p align="left">
-<a href="https://youtu.be/ZcvbJNg3tHU?si=zDml6TGO1dAmYAX8"><img align="center" src="https://telegra.ph/file/5a696eef7283442c96a2e.jpg" alt="ᴄʀᴇᴀᴛᴇ" height="110" width="200" /></a>
+<a href="https://youtube.com/@freeonlinetvt1?si=UiM1iSnKKrAmOShg"><img align="center" src="https://telegra.ph/file/5a696eef7283442c96a2e.jpg" alt="ᴄʀᴇᴀᴛᴇ" height="110" width="200" /></a>
    
 * ☆ ᴇxᴛʀᴀ ᴛᴇᴄʜ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴀɴᴅ ᴇɴᴊᴏʏ ☆ ᴠɪsɪᴛ ʜᴇʀᴇ ⇓
 <p align="left">
 <a href="https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg"><img align="center" src="https://telegra.ph/file/991e14c61b17a26c99da4.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+venocyber+md;🙏;🙏+✍🏾;🥰)](https://github.com/Kingjux)
+[![Fredie tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+frecyber+md;🙏;🙏+✍🏾;🥰)](https://github.com/fredietechTZ)
 
-<h1>💗</h1> 
+<h1>💞</h1> 
 <b>Thanks For</b> -
 
- [venocyber 💖](https://wa.me/message/MSSH2UWWOQBDL1) for Voice ,[cecilia](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl) , [he.is.me](http://github.com/Venocybertech) , [Itxxwasi](https://wa.me/message/THZ3I25BYZM2E1) , [𝘎𝘪𝘧𝘵𝘦𝘥 𝘵𝘦𝘤𝘩](https://wa.me/message/NHCZC5DSOEUXB1) and [officialchuimsela](https://wa.me/+260769355624) thanks for helps 💖
+ [fredie 🫶](https://wa.me/message/255620814108) for Voice ,[fredietech](https://youtube.com/@freeonlinetvt1?si=UiM1iSnKKrAmOShg) , [he.is.me](http://github.com/Fred1e) thanks for helps 💖
 
- ## [ WHATSAPP GROUPS ](https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN)
+ ## [ WHATSAPP GROUPS ](https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ©2024
-█░█ █▀ █▄░█ ▄▀▄ ▄▀ █░█ █▀▄
-█░█ █▀ █░▀█ █░█ █░ ▀▄▀ █▀█
-░▀░ ▀▀ ▀░░▀ ░▀░ ░▀ ░▀░ ▀▀░
-█▀ █▀▀▄
-█▀ █▐█▀  
-█▀▄▀█ █▀▄
-█░▀░█ █▄▀
-▀▀ ▀░▀▀
+#### FRECYBER MD
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+venocyber;Admin🥰)](https://github.com/Kingjux)
+[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+fredie;Admin🥰)](https://github.com/fredietechTZ)
 
 <p align="center">
-  <a href="https://github.com/Kingjux/Venocyber-md">
-    <img alt="venocyber docs" height="300" src="https://telegra.ph/file/8197615d8b2f4b16899ad.jpg">
+  <a href="https://github.com/fredietechTZ/Frecyber-md">
+    <img alt="frecyber docs" height="300" src="https://telegra.ph/file/8197615d8b2f4b16899ad.jpg">
   </a>
 </p>
     
@@ -220,4 +207,4 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### UPDATE
-SUPPORT NUMBERS ARE CHANGED DUE TO UNEXPECTED ISSUES HERE ARE THE NEW [NUMBERS](https://wa.me/255689606561?text=hi%20bro%20i%20saved%20your%20number%20save%20mine%20too%20i'm) 
+SUPPORT NUMBERS ARE CHANGED DUE TO UNEXPECTED ISSUES HERE ARE THE NEW [NUMBERS](https://wa.me/255620814108?text=hi%20bro%20i%20saved%20your%20number%20save%20mine%20too%20i'm) 
