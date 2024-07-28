@@ -1,0 +1,7 @@
+FROM quay.io/sampandey001/secktor
+RUN git clone https://github.com/fredietechTZ/Frecyber-md /root/fredietechTZ
+WORKDIR /root/fredietechTZ
+RUN npm install
+EXPOSE 8000
+CMD ["npm","start" ] 
+# POWERD BY FREDIETECH TECH
