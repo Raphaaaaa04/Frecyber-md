@@ -16,7 +16,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <a href="https://github.com/fredietechTZ/Frecyber-md">
-    <img alt="frecyber docs" height="300" src="https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg">
+    <img alt="frecyber docs" height="300" src="https://telegra.ph/file/1d4a42b28790d0f7a7195.jpg">
   </a>
 </p>
     
@@ -167,15 +167,15 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
   
  * Deploy on Heroku Video ⇓
  <p align="left">
-<a href="https://youtu.be/izoxfW3anrU"><img align="center" src="https://telegra.ph/file/75671c3784389fa525fcd.jpg" alt="DEPLOY" height="110" width="200" /></a>
+<a href="https://youtu.be/izoxfW3anrU"><img align="center" src="https://telegra.ph/file/957aab565af943d0c5109.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
 * don't have heroku account? ᴄʀᴇᴀᴛᴇ ʜᴇʀᴏᴋᴜ ᴀᴄᴄᴏᴜɴᴛ Video ⇓
  <p align="left">
-<a href="https://youtube.com/@freeonlinetvt1?si=UiM1iSnKKrAmOShg"><img align="center" src="https://telegra.ph/file/5a696eef7283442c96a2e.jpg" alt="ᴄʀᴇᴀᴛᴇ" height="110" width="200" /></a>
+<a href="https://youtube.com/@freeonlinetvt1?si=UiM1iSnKKrAmOShg"><img align="center" src="https://telegra.ph/file/957aab565af943d0c5109.jpg" alt="ᴄʀᴇᴀᴛᴇ" height="110" width="200" /></a>
    
 * ☆ ᴇxᴛʀᴀ ᴛᴇᴄʜ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴀɴᴅ ᴇɴᴊᴏʏ ☆ ᴠɪsɪᴛ ʜᴇʀᴇ ⇓
 <p align="left">
-<a href="https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg"><img align="center" src="https://telegra.ph/file/991e14c61b17a26c99da4.jpg" alt="DEPLOY" height="110" width="200" /></a>
+<a href="https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg"><img align="center" src="https://telegra.ph/file/957aab565af943d0c5109.jpg" alt="DEPLOY" height="110" width="200" /></a>
    
 [![Fredie tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+frecyber+md;🙏;🙏+✍🏾;🥰)](https://github.com/fredietechTZ)
 
@@ -193,11 +193,11 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+fredie;Admin🥰)](https://github.com/fredietechTZ)
+[![Fredie tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+fredie;Admin🥰)](https://github.com/fredietechTZ)
 
 <p align="center">
   <a href="https://github.com/fredietechTZ/Frecyber-md">
-    <img alt="frecyber docs" height="300" src="https://telegra.ph/file/8197615d8b2f4b16899ad.jpg">
+    <img alt="frecyber docs" height="300" src="https://telegra.ph/file/957aab565af943d0c5109.jpg">
   </a>
 </p>
     
